@@ -1,0 +1,12 @@
+[02.03.2023 13:00:31 ] [INFO] [main] [<module>: 8] => Start
+[02.03.2023 13:00:37 ] [INFO] [user_interface] [ls_menu: 22] => The user has selected item number 1
+[02.03.2023 13:00:45 ] [INFO] [user_interface] [ls_menu: 101] => The user has selected item number 7
+[02.03.2023 13:00:50 ] [INFO] [user_interface] [ls_menu: 108] => The user has selected item number 7.1
+[02.03.2023 13:00:59 ] [INFO] [user_interface] [ls_menu: 110] => User entered: {search}
+[02.03.2023 13:01:15 ] [INFO] [user_interface] [ls_menu: 113] => User entered: {user_id}
+[02.03.2023 13:01:22 ] [INFO] [user_interface] [ls_menu: 26] => The user has selected item number 2
+[02.03.2023 13:01:24 ] [INFO] [user_interface] [ls_menu: 28] => User entered: {search}
+[02.03.2023 13:02:14 ] [INFO] [user_interface] [ñhecking_the_number: 156] => User entered an invalid menu value: {arg}
+[02.03.2023 13:02:28 ] [INFO] [user_interface] [ls_menu: 22] => The user has selected item number 1
+[02.03.2023 13:02:38 ] [INFO] [user_interface] [ls_menu: 26] => The user has selected item number 2
+[02.03.2023 13:02:54 ] [INFO] [user_interface] [ls_menu: 28] => User entered: {search}
